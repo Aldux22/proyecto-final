@@ -1,0 +1,60 @@
+.nav-conte {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(fotos/bodega.jpg);
+}
+
+.sombra {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+    
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    margin: auto;
+}
+
+
+.sombra a {
+    text-decoration: none;
+    padding: 30px;
+    color: white;
+    
+}
+
+.sombra h1 {
+    
+    font-size: 30px;
+    padding: 15px;
+}
+
+.sombra p {
+    font-size: 20px;
+    padding: 15px;
+
+}
+
+.circulo {
+    width: 125px;
+    height: 125px;
+    border-radius: 70%;
+    background-position: center;
+    background-image: url(fotos/logo.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    
+    
+}
+
+
+hr {
+    margin: 10px;
+}
+
+

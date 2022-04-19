@@ -1,0 +1,28 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+    .mapa{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .mapa p{
+        padding-left: 30px;
+    }
+
+    .mapa iframe{
+        padding-right: 10px;
+    }
+
+    .form{
+        display: grid;
+        grid-template-columns: 1fr, 1fr;
+        grid-template-rows: 1fr, 1fr;
+        display: inline-block;
+        padding-left: 30px;
+    }
+

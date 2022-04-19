@@ -1,0 +1,36 @@
+*{ 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+
+  
+
+
+.fotos{
+  padding-left: 15px;
+}
+
+.fotos img{
+  
+  padding: 20px;
+  border-radius: 40px;
+  
+}
+
+
+.carru-contenedor{
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  
+}
+
+.carousel-inner img{
+  width: 500px;
+  height: 400px;
+}
+
+
+
